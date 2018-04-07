@@ -1,0 +1,34 @@
+Button {
+	-fx-background-color: #142020;
+	-fx-text-fill: white;
+}
+
+GridPane{
+	-fx-background-color: #1e3030;
+	-fx-text-fill: white;
+}
+Label {
+	-fx-text-fill: white;
+	-fx-font-size: .75em;
+	-fx-spacing: 0em;
+    -fx-padding: 0em;
+}
+.slider .track{
+	-fx-background-color: #142020;
+    -fx-background-insets: 1 0 -1 0, 0, 1;
+    -fx-background-radius: 2.5, 2.5, 1.5;
+
+}
+
+ListView {
+	-fx-background-color: #273333;
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: #142020;
+    -fx-text-fill: white;
+}
+.list-cell {
+	-fx-background-color: #273333;
+	-fx-text-fill: white;
+}
