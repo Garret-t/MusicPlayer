@@ -3,7 +3,7 @@ Java music player using JavaFX for the UI. Simply select a folder with Mp3, wav,
 Will improve possibly in the future.
 ![alt text](https://i.imgur.com/YM0JwLZ.png)
 
-#To-do
+# To-do
 -Stop popping noise
 -Add repeat button
 -Update to icons for pause/play
